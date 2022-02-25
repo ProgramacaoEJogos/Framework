@@ -1,0 +1,30 @@
+{
+  "name": "mortos0wc",
+  "version": "1.0.0",
+  "description": "Level up work in the Woodcutting skill",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "robotjs": "^0.6.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramacaoEJogos/RS3-Skilling.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProgramacaoEJogos/RS3-Skilling/issues"
+  },
+  "homepage": "https://github.com/ProgramacaoEJogos/RS3-Skilling#readme",
+  "keywords": [
+    "rs3",
+    "runescape",
+    "skilling",
+    "job"
+  ],
+  "author": "Mortos0",
+  "license": "MIT"
+}
